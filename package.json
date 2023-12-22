@@ -1,0 +1,16 @@
+{
+  "name": "npm_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "link-preview-js": "^3.0.5",
+    "nodemon": "^3.0.2"
+  }
+}
